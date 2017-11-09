@@ -3,6 +3,5 @@
 
 # Installation
 ```
-pip3 install beautifulsoup4
+pip install beautifulsoup4
 ```
-
