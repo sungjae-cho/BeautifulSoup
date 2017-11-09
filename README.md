@@ -1,2 +1,8 @@
-# BeautifulSoup
-To practice the python package Beautiful Soup
+# Information
+* Beautiful Soup official website: https://www.crummy.com/software/BeautifulSoup/
+
+# Installation
+```
+pip3 install beautifulsoup4
+```
+
